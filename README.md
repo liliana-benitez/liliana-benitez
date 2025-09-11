@@ -8,7 +8,7 @@ When I’m not coding, you can find me mentoring new developers, designing techy
 ## ✨ What I Do
 - **Software Engineer at [arol.dev](https://arol.dev):** designing and building educational tools, including a custom LMS, to make learning easier for students and mentors.
 - **Educator & Mentor:** teaching full-stack development, algorithms, and system design to aspiring software engineers.
-- **Founder of Tech Babes: blending code, creativity, and community.
+- **Founder of Tech Babes:** blending code, creativity, and community.
 
 ## 🚀 Tech & Tools I Love
 
@@ -29,9 +29,9 @@ When I’m not coding, you can find me mentoring new developers, designing techy
 - Preparing to take a **UI/UX design course** to deepen my design skills and learn Figma 
 
 ## Let’s Connect
-- 📧 lilyybenitezz@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/lili-benitez/)  
-- 🛍️ [Tech Babes Shop](https://techbabes.dev/)  
+- lilyybenitezz@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/lili-benitez/)  
+- [Tech Babes Shop](https://techbabes.dev/)  
 
 💖 *Building beautiful code & empowering others to do the same.*
 

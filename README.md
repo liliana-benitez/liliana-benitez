@@ -1,16 +1,16 @@
 # Hi there, I'm Lili
 
-💻 **Full-Stack Developer | Software Engineer | Educator**  
-🎀 Founder of [Tech Babes](https://www.etsy.com/shop/TechBabes) 
+- **Full-Stack Developer | Software Engineer | Educator**  
+- Founder of [Tech Babes](https://www.etsy.com/shop/TechBabes) 
 
 I’m passionate about building beautiful, maintainable code and empowering others to do the same.  
 I specialize in **React, TypeScript, Next.js, PostgreSQL**, and love exploring creative, interactive side projects that mix code + fun.  
 When I’m not coding, you can find me mentoring new developers, designing techy merch, or building playful apps for friends & family.
 
 ## ✨ What I Do
-- 🖥️ **Software Engineer at [arol.dev](https://arol.dev):** designing and building educational tools, including a custom LMS, to make learning easier for students and mentors.
-- 🎓 **Educator & Mentor:** teaching full-stack development, algorithms, and system design to aspiring software engineers.
-- 🌸 **Founder of Tech Babes: blending code, creativity, and community.
+- **Software Engineer at [arol.dev](https://arol.dev):** designing and building educational tools, including a custom LMS, to make learning easier for students and mentors.
+- **Educator & Mentor:** teaching full-stack development, algorithms, and system design to aspiring software engineers.
+- **Founder of Tech Babes: blending code, creativity, and community.
 
 ## 🚀 Tech & Tools I Love
 
@@ -30,12 +30,12 @@ When I’m not coding, you can find me mentoring new developers, designing techy
 - Exploring **creative uses of APIs and playful UI/UX** to make everyday activities more fun  
 - Preparing to take a **UI/UX design course** to deepen my design skills and learn Figma 
 
-## 📫 Let’s Connect
+## Let’s Connect
 - 📧 lilyybenitezz@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/lili-benitez/)  
 - 🛍️ [Tech Babes Shop](https://techbabes.dev/)  
 
-💖 *“Building beautiful code & empowering others to do the same.”*
+💖 *Building beautiful code & empowering others to do the same.*
 
 <!--
 **liliana-benitez/liliana-benitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

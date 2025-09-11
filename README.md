@@ -12,13 +12,13 @@ When I’m not coding, you can find me mentoring new developers, designing techy
 
 ## 🚀 Tech & Tools I Love
 
-### 🌐 Web Development
+### Web Development
 - React, Next.js, Vite, TypeScript  
 - PostgreSQL, Prisma ORM  
 - Node.js, Express.js  
 - Tailwind CSS, Shadcn  
 
-### 📱 iOS Development
+### iOS Development
 - Swift & SwiftUI  
 - Building beautiful, interactive native apps
 

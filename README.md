@@ -1,5 +1,7 @@
 # Hi there, I'm Lili
 
+![Alt text](./banner.png)
+
 I’m a full-stack developer, software engineer, educator, and the founder of [**Tech Babes**](https://techbabes.dev/), a playful brand celebrating women in tech with cute, empowering merch.
 I’m passionate about building beautiful, maintainable code and empowering others to do the same.  
 I specialize in **React, TypeScript, Next.js, PostgreSQL**, and love exploring creative, interactive side projects that mix code + fun.  

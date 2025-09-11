@@ -24,7 +24,7 @@ When I’m not coding, you can find me mentoring new developers, designing techy
 
 ## 🌱 What I’m Currently Working On
 - Developing a **custom site for Tech Babes** with unique, interactive features (more than just an ordinary online shop) 
-- Adding **data persistence and backend functionality** to my interactive side projects  
+- Adding **data persistence and backend functionality** to my side projects  
 - Exploring **creative uses of APIs and playful UI/UX** to make everyday activities more fun  
 - Preparing to take a **UI/UX design course** to deepen my design skills and learn Figma 
 

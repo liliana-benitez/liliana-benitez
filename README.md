@@ -36,8 +36,8 @@ When I’m not coding, you can find me mentoring new developers, designing techy
 - Preparing to take a **UI/UX design course** to deepen my design skills and learn Figma 
 
 ## <img src="./cable.svg" alt="Cable Icon" width="24"/> Let’s Connect
-- lilyybenitezz@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/lili-benitez/)  
+- lilyybenitezz@gmail.com  
 - [Tech Babes Shop](https://techbabes.dev/)  
 
 <!--

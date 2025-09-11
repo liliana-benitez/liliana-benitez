@@ -8,12 +8,12 @@ I specialize in **React, TypeScript, Next.js, PostgreSQL**, and love exploring c
 When I’m not coding, you can find me mentoring new developers, designing techy merch, designing fun apps for friends & family.
 
 
-## <img src="./laptop.svg" alt="Heart Icon" width="20"/> What I Do
+## <img src="./laptop.svg" alt="Laptop Icon" width="24"/> What I Do
 - **Software Engineer at [arol.dev](https://arol.dev):** designing and building educational tools, including a custom LMS, to make learning easier for students and mentors.
 - **Educator & Mentor:** teaching full-stack development, algorithms, and system design to aspiring software engineers.
 - **Founder of Tech Babes:** blending code, creativity, and community.
 
-
+## <img src="./hearticon.svg" alt="Heart Icon" width="24"/> Tech & Tools I Love
 
 ### Web Development
 - React, Next.js, Vite, TypeScript  
@@ -25,13 +25,13 @@ When I’m not coding, you can find me mentoring new developers, designing techy
 - Swift & SwiftUI  
 - Building beautiful, interactive native apps
 
-## <img src="./wrench.svg" alt="Heart Icon" width="20"/> What I’m Currently Working On
+## <img src="./wrench.svg" alt="Wrench Icon" width="24"/> What I’m Currently Working On
 - Developing a **custom site for Tech Babes** with unique, interactive features (more than just an ordinary online shop) 
 - Adding **data persistence and backend functionality** to my side projects  
 - Exploring **creative uses of APIs and playful UI/UX** to make everyday activities more fun  
 - Preparing to take a **UI/UX design course** to deepen my design skills and learn Figma 
 
-## <img src="./cable.svg" alt="Heart Icon" width="20"/> Let’s Connect
+## <img src="./cable.svg" alt="Cable Icon" width="24"/> Let’s Connect
 - lilyybenitezz@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/lili-benitez/)  
 - [Tech Babes Shop](https://techbabes.dev/)  

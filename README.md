@@ -3,7 +3,7 @@
 I’m a full-stack developer, software engineer, educator, and the founder of [**Tech Babes**](https://www.etsy.com/shop/TechBabes), a playful brand celebrating women in tech with cute, empowering merch.
 I’m passionate about building beautiful, maintainable code and empowering others to do the same.  
 I specialize in **React, TypeScript, Next.js, PostgreSQL**, and love exploring creative, interactive side projects that mix code + fun.  
-When I’m not coding, you can find me mentoring new developers, designing techy merch, or building playful apps for friends & family.
+When I’m not coding, you can find me mentoring new developers, designing techy merch, designing fun apps for friends & family.
 
 ## ✨ What I Do
 - **Software Engineer at [arol.dev](https://arol.dev):** designing and building educational tools, including a custom LMS, to make learning easier for students and mentors.

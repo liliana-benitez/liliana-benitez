@@ -7,12 +7,13 @@ I’m passionate about building beautiful, maintainable code and empowering othe
 I specialize in **React, TypeScript, Next.js, PostgreSQL**, and love exploring creative, interactive side projects that mix code + fun.  
 When I’m not coding, you can find me mentoring new developers, designing techy merch, designing fun apps for friends & family.
 
-## ✨ What I Do
+
+## <img src="./heart.svg" alt="Heart Icon" width="20"/> What I Do
 - **Software Engineer at [arol.dev](https://arol.dev):** designing and building educational tools, including a custom LMS, to make learning easier for students and mentors.
 - **Educator & Mentor:** teaching full-stack development, algorithms, and system design to aspiring software engineers.
 - **Founder of Tech Babes:** blending code, creativity, and community.
 
-## 🚀 Tech & Tools I Love
+## <img src="./heart.svg" alt="Heart Icon" width="20"/> Tech & Tools I Love
 
 ### Web Development
 - React, Next.js, Vite, TypeScript  
@@ -24,7 +25,7 @@ When I’m not coding, you can find me mentoring new developers, designing techy
 - Swift & SwiftUI  
 - Building beautiful, interactive native apps
 
-## 🌱 What I’m Currently Working On
+## <img src="./heart.svg" alt="Heart Icon" width="20"/> What I’m Currently Working On
 - Developing a **custom site for Tech Babes** with unique, interactive features (more than just an ordinary online shop) 
 - Adding **data persistence and backend functionality** to my side projects  
 - Exploring **creative uses of APIs and playful UI/UX** to make everyday activities more fun  
@@ -35,7 +36,7 @@ When I’m not coding, you can find me mentoring new developers, designing techy
 - [LinkedIn](https://www.linkedin.com/in/lili-benitez/)  
 - [Tech Babes Shop](https://techbabes.dev/)  
 
-💖 *Building beautiful code & empowering others to do the same.*
+<img src="./heart.svg" alt="Heart Icon" width="20"/> *Building beautiful code & empowering others to do the same.*
 
 <!--
 **liliana-benitez/liliana-benitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

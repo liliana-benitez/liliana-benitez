@@ -15,15 +15,19 @@ When I’m not coding, you can find me mentoring new developers, designing techy
 
 ## <img src="./hearticon.svg" alt="Heart Icon" width="24"/> Tech & Tools I Love
 
-### Web Development
-- React, Next.js, Vite, TypeScript  
-- PostgreSQL, Prisma ORM  
-- Node.js, Express.js  
-- Tailwind CSS, Shadcn  
-
-### iOS Development
-- Swift & SwiftUI  
-- Building beautiful, interactive native apps
+<div >
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="50"/>
+<br/>
+</div>
 
 ## <img src="./wrench.svg" alt="Wrench Icon" width="24"/> What I’m Currently Working On
 - Developing a **custom site for Tech Babes** with unique, interactive features (more than just an ordinary online shop) 

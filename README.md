@@ -41,8 +41,9 @@ When I’m not coding, you can find me mentoring new developers, designing techy
 - lilyybenitezz@gmail.com  
 - [Tech Babes Shop](https://techbabes.dev/)  
 
-![Snake animation](https://github.com/liliana-benitez/liliana-benitez/blob/output/github-contribution-grid-snake.svg)
 <!--
+![Snake animation](https://github.com/liliana-benitez/liliana-benitez/blob/output/github-contribution-grid-snake.svg)
+
 **liliana-benitez/liliana-benitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
